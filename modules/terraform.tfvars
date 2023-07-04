@@ -59,7 +59,7 @@ operating_system         = "LINUX"
 cpu_architecture         = "X86_64"
 
 # Variables for the service
-service_name      = "imp-Service"
+service_name      = "imp-push-service"
 service_role_name = "imp-push-service-role"
 # public_subnets      = ["subnet-038237e2c544512b2", "subnet-06444596eafdc15d2"]
 # ecs_security_groups = ["sg-0991ab42e756b2450"]
