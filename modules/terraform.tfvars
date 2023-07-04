@@ -17,10 +17,11 @@ env_var = {
   var1 = "tfvars1"
   var2 = "tfvars2"
 }
+
 my_lambda_tags = {
-  Application = "Push"
-  Environment = "Demo"
+  Property = "PUSH"
 }
+
 # ALB VARIABLES
 # vpc_id          = "vpc-0c9d173ca36c1610b"
 # subnets         = ["subnet-038237e2c544512b2", "subnet-06444596eafdc15d2"]

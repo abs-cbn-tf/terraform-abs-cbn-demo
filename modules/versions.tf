@@ -12,8 +12,8 @@ provider "aws" {
 
    default_tags {
    tags = {
-     Environment = "DemoEnvironment"
-     Project     = "DemoProject"
+     Environment = "DEMO"
+     Application     = "IMP"
    }
  }
 }
